@@ -14,4 +14,6 @@
 <br />
 <h3>Q: Apa anggota yang tidak berstatus menjadi admin dapat merekomendasikan soal latihan?</h3> 
 <p>Untuk para member yang tidak berstatus admin, dapat merekomendasikan soal latihannya tetapi sebelum membagikan/share soal tersebut, member diharapkan memberitahu kepada para admin untuk di validasi terlebih dahulu sebelum di bagikan </p>
-
+<br />
+<h3>Q: Apa di <i>community chat</i> ini menyediakan referensi pembelajaran selain bahasa Javascript? </h3>
+<p> <i>Community Chat</i> ini hanya fokus terhadap bahasa javascript dengan framework-frameworknya saja, tidak cuman di <i><b>Front-End Framework</b></i>nya saja tetapi kami juga tengah menyediakan referensi pembelajaran untuk di bagian atau sisi <i><b>Back-End Framework</b></i>nya yang ditambah dengan <i>Database/Server</i>nya juga.</p>
