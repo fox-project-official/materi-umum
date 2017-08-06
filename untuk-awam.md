@@ -11,7 +11,7 @@
 <h3>Q: Ada apa pembahasan apa saja di masing-masing tingkat/jenjang tersebut? </h3>
 <p>Kami memfokuskan dalam pemahaman dasar-dasar Javascript hingga member siap untuk terjun langsung ke framework: </p>
 <ul>
-  <li>Beginner: Pengenalan dan latihan dasar-dasar Javascript </li>
+  <li>Beginner: Pengenalan dan latihan dasar-dasar Javascript dan ES6 </li>
   <li>Middle: Pengenalan dan latihan <i>OOP/Object Oriented Programming</i> dalam bahasa javascript,ExpressJS,Database, ...<b><i>Coming Soon</i> </b> </li>
   <li>Master: ...<b><i>Coming Soon</i> </b> </li>
 </ul>
