@@ -9,7 +9,7 @@
 <h3>Q: Apa <i>Community Chat</i> ini menyediakan bahan-bahan untuk latihan?</h3>
 <p> Ya, kami tengah mengumpulkan latihan-latihan yang dimulai dari tingkat beginner -  intermediate/middle - Advanced/master. </p>
 <br />
-<h3>Apa latihan yang telah kita kerjakan akan dinilai, lalu bagaimana setelah semua latihan sudah di terselesaikan?</h3>
+<h3>Q: Apa latihan yang telah kita kerjakan akan dinilai, lalu bagaimana setelah semua latihan sudah di terselesaikan?</h3>
 <p> Setiap seminggu sekali kami (para admin) akan menilai dari masing-masing latihan para member dan jika ada kesalahan kami akan koreksi dimana kesalahan tersebut berada dan kenapa. Setelah semua latihan di cek, maka para member yang sudah melewati latihan-latihan di masing-masing jenjangnya (beginner, middle, master) kami akan pindahkan member tersebut ke jenjang berikutnya.</p>
 <br />
 <h3>Q: Apa anggota yang tidak berstatus menjadi admin dapat merekomendasikan soal latihan?</h3> 
