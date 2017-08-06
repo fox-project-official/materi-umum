@@ -6,7 +6,7 @@
 <h3>Q: Apa di aplikasi tersebut (Slack) memiliki panduan untuk orang yang awam dengan javascript? </h3>
 <p> Kami para anggota <i>community</i> tersebut aktif untuk saling berbagi bahan-bahan pembelajaran yang dimulai dari tahap dasar hingga tahap <i> production </i> atau <b><i>master</i></b>. Jadi, kami harap dengan member-member baru atau lama harus aktif sharing dan tanya-jawab. Tidak perlu malu, karena kami semua terbuka untuk saling membantu satu sama lain dan menolong hal-hal yang sulit di pecahkan disaat <i>development</i> atau belajar. </p>
 <br />
-<h3>Q: Apa <i>Community Chat</i> ini menyediakan bahan-bahan untuk latihan?
+<h3>Q: Apa <i>Community Chat</i> ini menyediakan bahan-bahan untuk latihan?</h3>
 <p> Ya, kami tengah mengumpulkan latihan-latihan yang dimulai dari tingkat beginner -  intermediate/middle - Advanced/master. </p>
 <br />
 <h3>Apa latihan yang telah kita kerjakan akan dinilai, lalu bagaimana setelah semua latihan sudah di terselesaikan?</h3>
