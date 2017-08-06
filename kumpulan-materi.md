@@ -28,7 +28,7 @@ Materi ini berisi materi campuran yang sebelumnya ada di Group Line, dari tingka
 # Designers Learning JavaScript: Angular, React, or Vue?
 <p>Source : </p><a href="https://blog.uxtools.co/designers-learning-javascript-angular-react-or-vue-465509d848bb">Link</a>
 
-# ....... ?
+# Internship at Google
 <p>Source : </p><a href="http://www.indo2sv.com/">Link</a>
 
 # Getting Started on Heroku with Node.js
@@ -73,7 +73,7 @@ Materi ini berisi materi campuran yang sebelumnya ada di Group Line, dari tingka
 # React VR
 <p>Source : </p><a href="https://facebook.github.io/react-vr/">Link</a>
 
-# ChanelYoutube --
+# Pembahasan/tutorial Javascript Youtube Channel
 <p>Source : </p><a href="https://www.youtube.com/channel/UCqOBKU-JXrM86FTt7Xzwdxw">Link</a>
 
 # Panduan Setting Node.js
