@@ -8,7 +8,7 @@
 <br />
 <h3>Q: Apa <i>Community Chat</i> ini menyediakan bahan-bahan untuk latihan?</h3>
 <p> Ya, kami tengah mengumpulkan latihan-latihan yang dimulai dari tingkat beginner -  intermediate/middle - Advanced/master. </p>
-<h3>Q: Ada apa pembahasan apa saja di masing-masing tingkat/jenjang tersebut? </h3>
+<h3>Q: Ada pembahasan apa saja di masing-masing tingkat/jenjang tersebut? </h3>
 <p>Kami memfokuskan dalam pemahaman dasar-dasar Javascript hingga member siap untuk terjun langsung ke framework: </p>
 <ul>
   <li>Beginner: Pengenalan dan latihan dasar-dasar Javascript dan ES6 </li>
