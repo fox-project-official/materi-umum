@@ -8,6 +8,13 @@
 <br />
 <h3>Q: Apa <i>Community Chat</i> ini menyediakan bahan-bahan untuk latihan?</h3>
 <p> Ya, kami tengah mengumpulkan latihan-latihan yang dimulai dari tingkat beginner -  intermediate/middle - Advanced/master. </p>
+<h3>Q: Ada apa pembahasan apa saja di masing-masing tingkat/jenjang tersebut? </h3>
+<p>Kami memfokuskan dalam pemahaman dasar-dasar Javascript hingga member siap untuk terjun langsung ke framework: </p>
+<ul>
+  <li>Beginner: Pengenalan dan latihan dasar-dasar Javascript </li>
+  <li>Middle: Pengenalan dan latihan <i>OOP/Object Oriented Programming</i> dalam bahasa javascript,ExpressJS,Database, ...<b><i>Coming Soon</i> </b> </li>
+  <li>Master: ...<b><i>Coming Soon</i> </b> </li>
+</ul>
 <br />
 <h3>Q: Apa latihan yang telah kita kerjakan akan dinilai, lalu bagaimana setelah semua latihan sudah di terselesaikan?</h3>
 <p> Setiap seminggu sekali kami (para admin) akan menilai dari masing-masing latihan para member dan jika ada kesalahan kami akan koreksi dimana kesalahan tersebut berada dan kenapa. Setelah semua latihan di cek, maka para member yang sudah melewati latihan-latihan di masing-masing jenjangnya (beginner, middle, master) kami akan pindahkan member tersebut ke jenjang berikutnya.</p>
